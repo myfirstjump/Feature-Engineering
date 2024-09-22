@@ -1,0 +1,17 @@
+pandas
+pymssql
+openpyxl
+seaborn
+matplotlib
+scikit-learn
+numpy
+scipy
+statsmodels
+category_encoders
+xgboost
+lightgbm
+mlxtend
+imbalanced-learn
+missingno
+feature-engine
+pyjanitor
